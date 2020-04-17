@@ -29,11 +29,7 @@ github_username:  mathyousee
 linkedin_username: matthewcanderson
 
 # Build settings
-<<<<<<< HEAD
-# theme: minima
-=======
 theme: jekyll-theme-slate
->>>>>>> 90ce305768ba2d9991f8a220ab963a377d6dd96d
 plugins:
   - jekyll-feed
 
