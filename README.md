@@ -1,4 +1,16 @@
-# Minimal Mistakes remote theme starter
+# <https://mathyousee.github.io>
+
+For more details on Markdown see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+## Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mathyousee/mathyousee.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+## Minimal Mistakes remote theme starter
 
 Fork this repo for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
@@ -18,7 +30,7 @@ Replace sample content with your own and [configure as necessary](https://mmista
 
 ---
 
-## Troubleshooting
+### Troubleshooting
 
 If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
 
