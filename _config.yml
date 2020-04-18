@@ -13,14 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MathYouSee's GitHub Pages
+title: Connecting the Data on GitHub
 email: mathyousee@noreply.github.io
 description: >- # this means to ignore newlines until "baseurl:"
   Matthew C. Anderson's curated content on GitHub.
 twitter_username: mcanderson
 github_username: mathyousee
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dirt
 search: true
+repository: "mathyousee/mathyousee.github.io"
 
 # Build settings
 markdown: kramdown
@@ -57,7 +58,7 @@ plugins:
 
 author:
   name   : "Matthew C. Anderson"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/mathyousee.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
@@ -71,7 +72,10 @@ author:
       url: "https://github.com/mathyousee"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/mcanderson"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/matthewcanderson"
 
 footer:
   links:
