@@ -3,6 +3,12 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Wrangle Power Platform (and PP-adjacent) resources so I can find them later. I stumbled across GitHub Pages and decided to try out it's not the most efficient way to collect a list of resources, but I'm 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+- Hands-on using Git and GitHub
+- Hands-on with VS Code
+- I get to blog using Markdown without the extra step of converting for WordPress
+- Hands-on with Jekyll (alternative to WordPress)
+- Lightweight work with Ruby
+
+As far as the content, it's focused on samples, documentation, resources, and how-to's. Don't look here for announcements.
