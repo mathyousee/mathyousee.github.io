@@ -2,7 +2,7 @@
 title: "GitHub: Hero Guard solution"
 categories:
   - Common Data Service
-  - Referrence Solutions
+  - Reference Solutions
 tags:
   - Dynamics 365
   - demo
