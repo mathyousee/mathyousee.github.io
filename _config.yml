@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Connecting the Data on GitHub
+title: Connecting the Data
 email: mathyousee@noreply.github.io
 description: >- # this means to ignore newlines until "baseurl:"
   Matthew C. Anderson's curated content on GitHub.
@@ -22,6 +22,7 @@ github_username: mathyousee
 minimal_mistakes_skin: dirt
 search: true
 repository: "mathyousee/mathyousee.github.io"
+logo: "/assets/images/ctd-icon-clear-300.png"
 
 # Build settings
 markdown: kramdown
