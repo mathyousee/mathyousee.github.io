@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Connecting the Data
+title: Matthew C. Anderson
 email: mathyousee@noreply.github.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Matthew C. Anderson's curated content on GitHub.
+  Matthew C. Anderson's online portfolio.
 twitter_username: mcanderson
 github_username: mathyousee
 minimal_mistakes_skin: dirt
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Matthew C. Anderson"
   avatar : "/assets/images/mathyousee.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Positive enthusiasm in action."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
