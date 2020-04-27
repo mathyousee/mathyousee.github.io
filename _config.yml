@@ -22,7 +22,7 @@ github_username: mathyousee
 minimal_mistakes_skin: dirt
 search: true
 repository: "mathyousee/mathyousee.github.io"
-logo: "/assets/images/M-icon-clear-300.png"
+logo: "/assets/images/ctd-icon-clear-300.png"
 
 # Build settings
 markdown: kramdown
