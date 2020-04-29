@@ -93,6 +93,14 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+collections:
+  toolkit:
+    output: true
+    permalink: /:collection/:path/
+  growth:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _posts
   - scope:
@@ -112,6 +120,22 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _toolkit
+  - scope:
+      path: "_toolkit"
+      type: toolkit
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _growth
+  - scope:
+      path: "_growth"
+      type: growth
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 category_archive:
   type: liquid
