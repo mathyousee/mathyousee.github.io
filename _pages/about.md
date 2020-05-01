@@ -3,12 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Wrangle Power Platform (and PP-adjacent) resources so I can find them later. I stumbled across GitHub Pages and decided to try out it's not the most efficient way to collect a list of resources, but I'm 
+I live in Wayzata, MN, with my wife Jess, daughter Emelia, and dog Stormie. I’m not much for most social media (such as Facebook, it’s just not that appealing to me), but I do like to podcast and create content.
 
-- Hands-on using Git and GitHub
-- Hands-on with VS Code
-- I get to blog using Markdown without the extra step of converting for WordPress
-- Hands-on with Jekyll (alternative to WordPress)
-- Lightweight work with Ruby
+Time is precious and I don't like wasting it, so I've tuned my habits both personally and professionally in an ongoing effort to spend that time on what matters--and I love sharing what I've learned with others through speaking and writing.​
 
-As far as the content, it's focused on samples, documentation, resources, and how-to's. Don't look here for announcements.
