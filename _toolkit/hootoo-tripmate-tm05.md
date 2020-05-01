@@ -1,5 +1,8 @@
 ---
 title: "HooToo TripMate HT-TM05"
+header:
+  image: /assets/images/post-hero.jpg
+  teaser: /assets/images/post-thumb.jpg
 categories:
   - tools
   - gear

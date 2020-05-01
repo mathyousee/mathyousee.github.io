@@ -1,5 +1,8 @@
 ---
 title: "Selection of dongles"
+header:
+  image: /assets/images/post-hero-thin.jpg
+  teaser: /assets/images/post-thumb.jpg
 categories:
   - tools
   - gear

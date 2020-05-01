@@ -1,5 +1,8 @@
 ---
 title: "Logitech Spotlight pointer"
+header:
+  image: /assets/images/post-hero-med.jpg
+  teaser: /assets/images/post-thumb.jpg
 categories:
   - tools
   - gear
