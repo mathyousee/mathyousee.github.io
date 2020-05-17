@@ -1,5 +1,5 @@
 ---
-title: "HooToo TripMate HT-TM05"
+title: "VS Code"
 header:
   image: /assets/images/post-hero.jpg
   teaser: /assets/images/post-thumb.jpg
