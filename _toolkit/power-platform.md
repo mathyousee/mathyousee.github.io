@@ -11,14 +11,14 @@ tags:
   - solutions
 ---
 
-OBS Studio serves a few different purposes:
+The foundational tools we can build with in the Power Platform:
 
 - [Power Apps](https://powerapps.microsoft.com)
 - [Power Automate](https://flow.microsoft.com)
 - [Power Virtual Agents](https://powerva.microsoft.com)
 - [Power BI](https://powerbi.microsoft.com)
 
-And the secret sauce behind the scenes
+Are enhanced with this secret sauce behind the scenes:
 
 - Common Data Service
 - Connector library & framework
