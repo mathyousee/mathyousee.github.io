@@ -1,7 +1,7 @@
 ---
-title: Common Data Service
+title: Dataverse
 layout: category
-permalink: /categories/common-data-service/
-taxonomy: Common Data Service
+permalink: /categories/dataverse/
+taxonomy: Dataverse
 ---
-Common Data Service resources.
+Dataverse resources.
