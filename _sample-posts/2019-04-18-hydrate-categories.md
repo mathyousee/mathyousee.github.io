@@ -2,7 +2,7 @@
 title: "Welcome to Jekyll!"
 date: 2019-04-19T15:34:30-04:00
 categories:
-  - Common Data Service
+  - Dataverse
   - Power Apps
   - Power Automate
   - Reference Solutions

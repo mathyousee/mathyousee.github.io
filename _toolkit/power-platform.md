@@ -20,7 +20,7 @@ The foundational tools we can build with in the Power Platform:
 
 Are enhanced with this secret sauce behind the scenes:
 
-- Common Data Service
+- Dataverse (f.k.a. Common Data Service)
 - Connector library & framework
 - Solutions
 - AI Builder
