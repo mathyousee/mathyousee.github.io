@@ -1,8 +1,8 @@
 ---
 title: "Is it worth the time?"
 header:
-  image: /assets/images/unsplash-image-1.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  image: /assets/images/heros/is_it_worth_the_time.png
+  caption: "Image credit: [**XKCD**](https://xkcd.com)"
 categories:
   - note
 tags:
